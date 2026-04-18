@@ -35,8 +35,7 @@
               "title": "React Native BLE PLX"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bluetooth/React Native BLE PLX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for React Native BLE PLX"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +126,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bluetooth/React Native BLE PLX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from React Native BLE PLX"
+              "title": "Outgoing links"
             }
           },
           {
@@ -171,13 +168,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bluetooth/React Native BLE PLX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of React Native BLE PLX"
+              "title": "Outline"
             }
           }
         ]
@@ -214,14 +210,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f890f2f2dad65a4",
+  "active": "a8db3a7b5bdb1e2d",
   "lastOpenFiles": [
     "Bluetooth/Bluetooth Low Energy (BLE).md",
+    "Bluetooth/React Native BLE PLX.md",
     "Bluetooth/Advertising packets.md",
     "Bluetooth",
     "Bluetooth/Core Bluetooth.md",
     "Bluetooth/Peripheral Data Structure.md",
-    "Bluetooth/React Native BLE PLX.md",
     "images/Pasted image 20260416162740.png",
     "images",
     "Pasted image 20260416162740.png",
